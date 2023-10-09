@@ -1,1 +1,1 @@
-export const backendApi = 'http://localhost:8080/';
+export const backendApi ='https://telebot-nest.onrender.com/';
