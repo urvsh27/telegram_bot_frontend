@@ -1,4 +1,4 @@
-# Credits 
+# Image Credits 
 https://dribbble.com/ARBAB97
 
 # Google login button design
