@@ -1,0 +1,21 @@
+.bot-token-div{
+    background-color: #e2ff09;
+    width: 80%; 
+    margin: 10px auto 0; 
+    border-radius:15px;
+    border: solid 2px;
+    border-width: 2px 5px 5px 2px;  
+    padding: 20px;
+}
+
+
+.user-list-div{
+    background-color: #dbdbdb;
+    width: 80%; 
+    margin: 20px auto 0; 
+    border-radius:15px;
+    border: solid 2px;
+    border-width: 2px 5px 5px 2px;  
+    padding: 20px;
+}
+

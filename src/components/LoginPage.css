@@ -1,0 +1,26 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px !important  ;
+  }
+
+  .google-login {
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 20px; 
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #333;
+  }
+  
+  .image {
+    width: 100%;
+    max-width: 100%; /* Set a maximum width for the image */
+    height: auto;
+    border-radius:15px;
+    border: solid 2px;
+    border-width: 2px 5px 5px 2px; 
+  }
